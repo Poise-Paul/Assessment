@@ -23,6 +23,8 @@ radial-gradient(at 56% 79%, hsla(287,63%,68%,1) 0, transparent 45%);
 height: 100vh;
 width: screen;
 position: relative;
+
+overflow: scroll;
 }
 
 .container{
